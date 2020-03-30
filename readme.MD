@@ -1,3 +1,4 @@
+This video is over a year old, but it illustrates the basic gameplay mechanic:
 [![Alt text](https://img.youtube.com/vi/NMNIwnMRlKs/0.jpg)](https://www.youtube.com/watch?v=NMNIwnMRlKs)
 <img src='スクリーンショット (8).png'>
 <img src='スクリーンショット (14).png'>
